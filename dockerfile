@@ -1,4 +1,4 @@
-i# Run awscli in a container and list s3 buckets
+# Run awscli in a container and list s3 buckets
 #
 # docker run --rm -it \
 #	--name awscli \
